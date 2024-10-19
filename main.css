@@ -1,0 +1,137 @@
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+.header {    
+    font-size: 34px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Moderustic", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.what {    
+    margin-top: 25px;
+    font-size: 22px;
+    text-align: center;
+    color: #7a7aa2;
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.version {
+font-size: 12px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #6a78ff;
+  text-align: center;
+}
+
+.top-opis{
+  display: flex;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 12px;
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #6d677c;
+}
+
+
+.top-header{
+    display: flex;
+  margin-left: 5px;
+  margin-top: 5px;
+  font-size: 20px;
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.top1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    border: 1px solid #8098ff3c;
+    border-radius: 10px;
+    height: 100px;
+    background-color: #556dff10;
+}
+
+.photo2 {
+    display: flex;   
+    background-image: url("saranha.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+}
+
+.photo3 {
+    display: flex;   
+    background-image: url("leva.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+}
+
+.photo {
+    display: flex;   
+    background-image: url("pariev.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+}
+
+.text-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.botom {
+  display: flex;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+#top2 {
+    margin-top: 10px;
+}
+
+.text-last {    
+    margin-top: 25px;
+    font-size: 14px;
+    text-align: center;
+    color: #8098ff69;
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}

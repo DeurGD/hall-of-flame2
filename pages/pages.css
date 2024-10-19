@@ -1,0 +1,87 @@
+a {
+    color: inherit;
+    /* blue colors for links too */
+    text-decoration: inherit;
+    /* no underline */
+}
+
+.table {
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #8098ff3c;
+    border-collapse: collapse;
+}
+
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    background: #556dff10;
+    border: 1px solid #8098ff3c;
+}
+
+.table td {
+    border: 1px solid #8098ff3c;
+}
+
+.header {
+    font-size: 34px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Moderustic", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.text {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffffd8;
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.photo1 {
+    margin-top: 10px;
+    width: 90vw;
+    height: 90vw;
+    background-image: url("pariev.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.link {
+    font-size: 18px;
+    text-align: center;
+    color: #2a43ff8f;
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-last {
+    margin-top: 25px;
+    font-size: 14px;
+    text-align: center;
+    color: #8098ff69;
+    font-family: "Comfortaa", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
