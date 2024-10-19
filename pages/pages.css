@@ -1,4 +1,5 @@
 a {
+    margin-top: 15px;
     color: inherit;
     /* blue colors for links too */
     text-decoration: inherit;
@@ -20,6 +21,7 @@ a {
 }
 
 .table th {
+    border-radius: 15px;
     font-weight: bold;
     padding: 5px;
     background: #556dff10;
@@ -52,6 +54,7 @@ a {
 }
 
 .photo2 {
+    border-radius: 15px;
     margin-top: 10px;
     width: 90vw;
     height: 90vw;
@@ -60,7 +63,18 @@ a {
     background-size: cover;
 }
 
+.photo3 {
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 90vw;
+    height: 90vw;
+    background-image: url("leva.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .photo1 {
+    border-radius: 15px;
     margin-top: 10px;
     width: 90vw;
     height: 90vw;
