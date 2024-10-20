@@ -91,7 +91,7 @@ a {
 .top1 {
     display: flex;
     flex-direction: row;
-    margin-top: 25px;
+    margin-top: 15px;
     border: 1px solid #8098ff3c;
     border-radius: 10px;
     width: 95vw;
